@@ -1,0 +1,42 @@
+body{
+    background-color:white;
+      margin: 0;
+    padding top: 800px;
+    text-align: center;
+    
+        
+}
+#img{
+    border-radius: 50%;
+        margin-bottom: 10px;
+    width: 100px;
+         height: 100px;
+}
+
+.menu{
+    list-style: none;
+    font-family:fantasy;
+    position: absolute;
+    top: 10px;
+    text-align: center;
+    z-index: 10px;
+    cursor: pointer;
+        font-size: 400px;
+}
+
+#img{
+    border-radius: 50%;
+        margin-bottom: 533320px;
+    width: 50px;
+         height: 50px;
+}
+
+#h1{
+    font-weight: 700;
+    color: white;
+}
+
+}
+#welcome{
+    background: red(#EE0000 0%, #FFE5E5 100%);
+} linear-gradient(#03fcc6 0%, #4a03fc 100%);
